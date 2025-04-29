@@ -78,7 +78,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <p className="text-sm text-gray-500">Call us</p>
-                  <a href="tel:+1-800-123-4567" className="text-blue-600 font-medium">+1 (800) 123-4567</a>
+                  <a href="tel:+1-800-123-4567" className="text-blue-600 font-medium">+91 9876543210 </a>
                 </div>
               </div>
               
@@ -89,8 +89,8 @@ const Contact = () => {
                 <div>
                   <p className="text-sm text-gray-500">Visit our office</p>
                   <address className="not-italic text-gray-700">
-                    123 Health Avenue<br />
-                    San Francisco, CA 94103
+                    123 Health <br />
+                    Hyderabad, India 500088
                   </address>
                 </div>
               </div>
