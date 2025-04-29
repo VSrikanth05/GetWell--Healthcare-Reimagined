@@ -59,7 +59,3 @@ GetWell is a modern SaaS solution that brings healthcare management into the dig
 - **Secure Messaging**: HIPAA-compliant communication between patients and providers
 - **Appointment Scheduling**: Easy-to-use calendar and scheduling system
 - **Integration Capabilities**: Connect with existing EHR/EMR systems
-
-## License
-
-This project is licensed under the [MIT License](LICENSE)
