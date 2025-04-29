@@ -24,17 +24,17 @@ const Contact = () => {
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <div className="space-y-2">
                   <label htmlFor="first-name" className="text-sm font-medium text-gray-700">First name</label>
-                  <Input id="first-name" placeholder="John" />
+                  <Input id="first-name" placeholder="Btech" />
                 </div>
                 <div className="space-y-2">
                   <label htmlFor="last-name" className="text-sm font-medium text-gray-700">Last name</label>
-                  <Input id="last-name" placeholder="Doe" />
+                  <Input id="last-name" placeholder="Mtech" />
                 </div>
               </div>
               
               <div className="space-y-2">
                 <label htmlFor="email" className="text-sm font-medium text-gray-700">Email</label>
-                <Input id="email" type="email" placeholder="john.doe@example.com" />
+                <Input id="email" type="email" placeholder="example@gmail.com" />
               </div>
               
               <div className="space-y-2">
